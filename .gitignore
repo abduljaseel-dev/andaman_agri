@@ -1,0 +1,25 @@
+
+# Database credentials
+db.php
+.env
+.env.*
+
+# Private uploaded documents and files
+private_uploads/
+
+# Database backups
+*.sql
+*.sql.zip
+*.bak
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
